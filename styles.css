@@ -20,31 +20,12 @@ body {
     color: #90E0EF;
     border-bottom: 6px solid #0077B6;
     box-shadow: 10px 10px 50px black;
-    
-    /*
-    Challenge:
-    Find a color palette you like on Coolors.co
-    and use it in your business card.
-     */
 }
 
 .border-blue {
     border: 1px dotted blue;
 }
 
-.info:hover {
+.info {
     margin: auto 0;
 }
-
-/*
-Stretch goals:
-Find other ways you can personalize 
-the design of your business card, e.g.:
-- change the border(s)
-- add border radius
-- shuffle the layout
-- shadows        🤯
-- hover effects  🤯🤯
-- animations     🤯🤯🤯
-*/
-
