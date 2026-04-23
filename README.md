@@ -2,7 +2,7 @@
 
 A static website developed with Scrimba using HTML & CSS for my own digital business card.
 
-<img src="_screenshot.jpg" alt="Website screenshot">
+<img src="_screenshot.png" alt="Website screenshot">
 
 ## Description
 
