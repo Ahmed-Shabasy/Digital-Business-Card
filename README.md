@@ -14,7 +14,7 @@ This website is a part of solo projects that was made during Scrimba's <a href="
 
 ## Key Learning Outcomes
 
-- Used flexbox to make one-dimensional layout.
+- Used flexbox to build one-dimensional layout.
 - Set the font to a specific font family (sans-serif).
 - Centered the content using margins.
 - Centered the flex content using text-align and justify-content properties.
